@@ -1,0 +1,50 @@
+body {
+    background-color: aquamarine;
+}
+
+#a1 {
+    margin-left: 46%;
+}
+
+h1 {
+    margin-left: 42%;
+    color: rgb(40, 40, 133);
+    font-size: 1.8rem;
+}
+
+
+/*#container {
+     height: 200px;
+     width: 200px;
+     font-family: sans-serif;
+     font-size: 1.8rem;
+}*/
+
+#list {
+    margin-left: 41%;
+    color: #94135a;
+    font-size: 25px;
+    /*background-color: #badbeaba;*/
+}
+
+
+/* .warm-city {
+    background-color: rgb(255, 203, 71);
+    background-color: brack;
+}
+
+.cold-city {
+    background-color: rgb(92, 222, 255);
+} */
+
+#main {
+    margin-left: 42.8%;
+}
+
+#add {
+    background-color: #4CAF50;
+}
+
+#remove {
+    background-color: #f44336;
+}
